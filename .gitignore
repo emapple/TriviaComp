@@ -1,0 +1,12 @@
+# these are automatically generated else unneeded, no need to version it
+.gitattributes
+.gitconfig
+
+# Jupyter things
+**/.ipynb_checkpoints
+
+# downloaded and compiled via get_jq.bash
+jq/
+
+ # python things
+**/__pycache__
